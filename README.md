@@ -6,9 +6,11 @@
   **The index of the deep learning model**
 
 
-+ Alexnet 
++ Alexnet   
 ![alexnet](https://user-images.githubusercontent.com/76908071/169828459-4cb6986d-18e7-406a-87a6-d5bf951f49d1.png)
-+ VGG
-+ NiN
++ VGG  
+![vgg](https://user-images.githubusercontent.com/76908071/169833637-a6f1124b-066d-4666-a454-e7e29b781f08.jpg)
++ NiN  
+![NiN](https://user-images.githubusercontent.com/76908071/169834323-490333e9-c1cc-4558-9fcf-1f6850f47265.png)  
 + Googlenet 
 + 
